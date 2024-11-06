@@ -29,6 +29,5 @@ With over five years of experience in the travel industry, I have developed stro
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/alirezakargar/)
-- [Portfolio](https://alirezakargar.de)
-- Email: [Alireza.kargar@gmx.de](mailto:Alireza.kargar@gmx.de)
+- [Email](mailto:Alireza.kargar@gmx.de)
 
