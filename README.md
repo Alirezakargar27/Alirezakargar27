@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alireza
 
-A passionate Junior Software Developer located in Hamburg, ready to relocate for the right opportunity! And yes, I do speak German, English, Persian and python!
+A passionate Junior Software Developer located in Hamburg, ready to relocate for the right opportunity!  I do speak German, English, Persian and python!
 
 ## 🚀 About Me
 
