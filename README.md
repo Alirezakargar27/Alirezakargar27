@@ -15,7 +15,7 @@ With over five years of experience in the travel industry, I have developed stro
 - **APIs and Web Services**: REST APIs, API Integration, Postman
 
 ## 📚 What I'm Currently Learning
-- **Python**: Deepeing my skills in Python
+- **Python**: deepening my skills in Python
 - **AWS**: Exploring cloud services and deployment strategies.
 - **Golang**: Gaining familiarity with Go for backend development.
 
