@@ -1,18 +1,34 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Alireza
 
-A passionate [your profession] located in [Your Location].
+A passionate Junior Software Developer located in Hamburg, ready to relocate for the right opportunity! And yes, I do speak German!
 
 ## 🚀 About Me
 
-- I'm currently working on [Your Projects or Goals]
-- I'm learning [Technologies or Skills]
-- I'm looking to collaborate on [What You’re Interested In]
-- How to reach me: [Your Email or Contact Method]
-- Fun fact: [Something interesting about you]
+With over five years of experience in the travel industry, I have developed strong communication and problem-solving skills. My passion for technology inspired me to complete an intensive training program in software development, focusing on backend development with Python. I am eager to transition into the tech industry.
 
-## 💼 Skills
-- [List your skills here]
+## 💻 Tech Skills
 
-## 🌐 Connect with me:
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
+- **Programming Languages**: Python
+- **Web Technologies and Protocols**: HTML, CSS, HTTP, HTTPS
+- **Frameworks and Libraries**: Flask, Jinja, Pytest, Requests
+- **Databases and Data Handling**: SQL, SQLite, MySQL, SQLAlchemy, JSON
+- **APIs and Web Services**: REST APIs, API Integration, Postman
+
+## 📚 What I'm Currently Learning
+- **Python**: Deepeing my skills in Python
+- **AWS**: Exploring cloud services and deployment strategies.
+- **Golang**: Gaining familiarity with Go for backend development.
+
+## 📋 What Roles I Am Open To
+
+- Junior backemd Developer
+- Junior IT and digital transformation Consultant
+- Junior Project/Product Management in tech companies
+- Junior Business Analyst
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/alirezakargar/)
+- [Portfolio](https://alirezakargar.de)
+- Email: [Alireza.kargar@gmx.de](mailto:Alireza.kargar@gmx.de)
+
