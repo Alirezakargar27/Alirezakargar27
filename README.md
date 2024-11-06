@@ -21,7 +21,7 @@ With over five years of experience in the travel industry, I have developed stro
 
 ## 📋 What Roles I Am Open To
 
-- Junior backemd Developer
+- Junior backend Developer
 - Junior IT and digital transformation Consultant
 - Junior Project/Product Management in tech companies
 - Junior Business Analyst
