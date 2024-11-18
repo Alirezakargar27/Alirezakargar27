@@ -11,13 +11,13 @@ With over five years of experience in the travel industry, I have developed stro
 - **Programming Languages**: Python
 - **Web Technologies and Protocols**: HTML, CSS, HTTP, HTTPS
 - **Frameworks and Libraries**: Flask, Jinja, Pytest, Requests
-- **Databases and Data Handling**: SQL, SQLite, MySQL, SQLAlchemy, JSON
+- **Databases and Data Handling**: SQL, SQLite, MySQL, SQLAlchemy
 - **APIs and Web Services**: REST APIs, API Integration, Postman
 
 ## 📚 What I'm Currently Learning
 - **Python**: deepening my skills in Python
 - **AWS**: Exploring cloud services and deployment strategies.
-- **Golang**: Gaining familiarity with Go for backend development.
+- **SAP and ABAP Basics**: Gaining familiarity with SAP ERP.
 
 ## 📋 What Roles I Am Open To
 
